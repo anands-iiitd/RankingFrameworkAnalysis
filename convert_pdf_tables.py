@@ -41,7 +41,7 @@ def dump_pdf_tables_to_csv(src_path,dest_path,verbose=False):
 
 
 
-#First run downloadscript.py to download the pdf files
+#First run scraper_script.py to download the yearwise and institute-wise pdf files
 
 year_list = list(range(2024,2018,-1))
 # year_list = list(range(2025,2024,-1))
